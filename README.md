@@ -34,11 +34,11 @@ Yeee now you have succesfully imported the work flow.
 
 ### Run the workflow:
 1. Go to that specific project where you have imported the workflow. Hover over the workflow that you have imported and click on `edit`.
-![image](https://user-images.githubusercontent.com/60179170/88806770-77b46280-d1ce-11ea-9ed1-5b61d2960d22.png)
+![image](https://user-images.githubusercontent.com/60179170/88919441-b9094880-d288-11ea-9295-9e8a5414b9f3.png)
 2. Click on the `edit` icon present in the top left corner.
 ![image](https://user-images.githubusercontent.com/60179170/88808530-a29fb600-d1d0-11ea-90e1-d4efeebfe853.png).
 3. Now go to the workflow description and coppy the requested body. `only the JSON part`. And click `Done`.
-![image](https://user-images.githubusercontent.com/60179170/88809028-3d989000-d1d1-11ea-87ba-307e143f01df.png)
+![image](https://user-images.githubusercontent.com/60179170/88919785-5c5a5d80-d289-11ea-9408-f970bf04f165.png)
 4. Now `double click` on the start .
 ![image](https://user-images.githubusercontent.com/60179170/88809305-9700bf00-d1d1-11ea-91a2-235dfaf46578.png).
 5. From the list click on webhook.<br/>
@@ -46,9 +46,9 @@ Yeee now you have succesfully imported the work flow.
 6. Click `Next`.<br/>
 ![image](https://user-images.githubusercontent.com/60179170/88910377-05995780-d27a-11ea-99cc-b472dac0f0ef.png)
 7. Now paste the coppied data in to the body and click `Next` and then `Done`.
-![image](https://user-images.githubusercontent.com/60179170/88810882-8d785680-d1d3-11ea-9c79-02d5d5f3be73.png)
+![image](https://user-images.githubusercontent.com/60179170/88919905-8744b180-d289-11ea-9c8d-a3ba8a61d192.png)
 8. Now run the workflow it will give you output in the logger. Here you can see the array after a pop.<br/>
-![image](https://user-images.githubusercontent.com/60179170/88811238-efd15700-d1d3-11ea-94f2-a9446973d50e.png)
+![image](https://user-images.githubusercontent.com/60179170/88919992-ad6a5180-d289-11ea-94c6-8ffa9806f743.png)
 
 ### Test With other input:
 1. Open the weebhook and change the data inside the body. <b> Donot change the key value and the formte of the data. ie. "data1" is key here and ARRAY is the formate of the data</b>.<br/>
