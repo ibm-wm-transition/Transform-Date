@@ -47,11 +47,11 @@ Yeee now you have succesfully imported the work flow.
 ![image](https://user-images.githubusercontent.com/60179170/88910377-05995780-d27a-11ea-99cc-b472dac0f0ef.png)
 7. Now paste the coppied data in to the body and click `Next` and then `Done`.
 ![image](https://user-images.githubusercontent.com/60179170/88919905-8744b180-d289-11ea-9c8d-a3ba8a61d192.png)
-8. Now run the workflow it will give you output in the logger. Here you can see the array after a pop.<br/>
+8. Now run the workflow it will give you output in the logger. Here you can see the Difference betwwen the dates.<br/>
 ![image](https://user-images.githubusercontent.com/60179170/88919992-ad6a5180-d289-11ea-94c6-8ffa9806f743.png)
 
 ### Test With other input:
-1. Open the weebhook and change the data inside the body. <b> Donot change the key value and the formte of the data. ie. "data1" is key here and ARRAY is the formate of the data</b>.<br/>
-![image](https://user-images.githubusercontent.com/60179170/88911225-2dd58600-d27b-11ea-9d87-7f148a217e19.png)
-2.  Now run the workflow it will give you output in the logger. Here you can see the new array after a pop.<br/>
+1. Open the weebhook and change the data inside the body. <b> Donot change the key value and the formte of the data. ie. "data1", "data2" and "data3" is key here and Match the date formate with the "data3" formate. If you change the "data3" provide the inpute in that format </b>.<br/>
+![image](https://user-images.githubusercontent.com/60179170/88920617-c58ea080-d28a-11ea-92d3-fa83abeb4bf4.png)
+2.  Now run the workflow it will give you output in the logger. 
 
