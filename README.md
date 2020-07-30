@@ -37,7 +37,7 @@ Yeee now you have succesfully imported the work flow.
 ![image](https://user-images.githubusercontent.com/60179170/88919441-b9094880-d288-11ea-9295-9e8a5414b9f3.png)
 2. Click on the `edit` icon present in the top left corner.
 ![image](https://user-images.githubusercontent.com/60179170/88808530-a29fb600-d1d0-11ea-90e1-d4efeebfe853.png).
-3. Now go to the workflow description and coppy the requested body. `only the JSON part`. And click `Done`.
+3. Now go to the workflow description and coppy the requested body. `only the JSON part`. And click `Done`. <b> If There is no request body present you can dirctly run the workflow (Step 8).</b>
 ![image](https://user-images.githubusercontent.com/60179170/88919785-5c5a5d80-d289-11ea-9408-f970bf04f165.png)
 4. Now `double click` on the start .
 ![image](https://user-images.githubusercontent.com/60179170/88809305-9700bf00-d1d1-11ea-91a2-235dfaf46578.png).
